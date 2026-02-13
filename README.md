@@ -28,4 +28,5 @@ I am Juan, an aspyring data scientist and software developer looking for my firs
   - X: Juanfra_3108 (https://x.com/Juanfra_3108)
 
 - ⚡ Fun fact -
+
   I studied computer science comming out of school, my focus was on software development and networks, but as I entered university on a whim decided to change to Physical Education and ended working 10+ year as a personal trainer successfully, now I am back in tech reallizing this was my first love and still is the love of my life.
