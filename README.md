@@ -3,7 +3,8 @@
 I am Juan, an aspyring data scientist and software developer looking for my first internship or job experience in the field. 
 
 - 🔭 I’m currently working on -
-  - A python script that reads a english docx and translates it to spanish with context, tables and images in place.
+
+  A python script that reads a english docx and translates it to spanish with context, tables and images in place.
 
 - 🌱 I’m currently learning -
   - Python:
@@ -20,6 +21,7 @@ I am Juan, an aspyring data scientist and software developer looking for my firs
     * Data science for begginers (Microsoft)
 
 - 👯 I’m looking to collaborate on -
+
   Data analysis and app building projects.
 
 - 📫 How to reach me -
