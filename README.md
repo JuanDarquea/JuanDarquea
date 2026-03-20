@@ -4,7 +4,8 @@ I am Juan, an aspyring data scientist and software developer looking for my firs
 
 - 🔭 I’m currently working on -
 
-  A python script that reads a english docx and translates it to spanish with context, tables and images in place.
+  * A python script that reads a english docx and translates it to spanish with context, tables and images in place.
+  * A python script to train and create F1 race prediction models to test during the 2026 F1 race calendar.
 
 - 🌱 I’m currently learning -
   - Python:
