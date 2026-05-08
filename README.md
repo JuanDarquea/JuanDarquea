@@ -4,9 +4,7 @@ I am Juan, an aspyring data scientist and software developer looking for my firs
 
 - 🔭 I’m currently working on -
 
-  * A python script that reads a english docx and translates it to spanish with context, tables and images in place. (Finished)
-  * A python script to train and create F1 race prediction models to test during the 2026 F1 race calendar. (Finished)
-  * A python script that creates a market signaling bot that connects to discord and sends 3 daily messages about buying market stocks.
+  * Two python scripts that creates market signaling bots that connects to discord and sends daily updates about chosen market stocks.
   * A python script that creates a personal finance dashboard that accpets bank statement .csv files and auto-catalogs expenses into different categories showing your current financial health.
 
 - 🌱 I’m currently learning -
