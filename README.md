@@ -6,6 +6,7 @@ I am Juan, an aspyring data scientist and software developer looking for my firs
 
   * Two python scripts that creates market signaling bots that connects to discord and sends daily updates about chosen market stocks.
   * A python script that creates a personal finance dashboard that accpets bank statement .csv files and auto-catalogs expenses into different categories showing your current financial health.
+  * A expenses and budgeting web and cell app for personal finance.
 
 - 🌱 I’m currently learning -
   - Python:
